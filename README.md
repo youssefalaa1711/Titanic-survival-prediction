@@ -1,33 +1,9 @@
 # Titanic Survival Prediction
 
-A machine learning project that predicts passenger survival on the Titanic using the classic dataset.
+This is a basic machine learning project that predicts if a passenger survived the Titanic disaster using their age, gender, class, and other features.
 
-## 📁 Project Structure
-- `notebooks/`: Jupyter notebook with all exploratory and training code
-- `src/`: Modular Python scripts for modeling and preprocessing
-- `data/`: Titanic dataset
-- `outputs/`: Predictions and visualizations
+## Files
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/titanic-survival-prediction.git
-   cd titanic-survival-prediction
-   ```
-
-2. Install requirements:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-   ```
-   jupyter notebook notebooks/Titanic_Survival_Prediction.ipynb
-   ```
-
-## 📊 Libraries Used
-- pandas
-- scikit-learn
-- matplotlib
-- seaborn
-"# Titanic-survival-prediction" 
+- `train.csv`: Dataset
+- `Titanic_Survival_Prediction.ipynb`: Notebook with all the code
+- `requirements.txt`: Needed libraries
